@@ -64,6 +64,10 @@ After entering a valid name for the output image and pressing the start button, 
 
 ![GUI Screenshot](https://drive.google.com/uc?export=view&id=1lwlkyjIiV7munp1uue14gBmrwLhPKcuy)
 
+Upon pressing the exit button, a confirmation window is shown to either confirm or cancel.
+
+![GUI Screenshot](https://drive.google.com/uc?export=view&id=1lrfwymvrAk_yrzJ8kqJV4JzUAEW00qzI)
+
 ### Folder structure for images
 
 The Images folder contains 3 subfolders used for reading the input image (this is where house.jpg needs to be placed), writing the output image and for reading and writing images when multiple filters are applied to the same input file (the "Continue editing the same image" checkbox is selected).
